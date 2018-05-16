@@ -1,6 +1,6 @@
 # CompareNetworks Assessment Test
 
-Using Angular / pure JS / or your favorite framework please complete the following:
+Using Angular / React / pure JS / or your favorite framework please complete the following:
 
 1. Create an image carrousel showcasing Mission bikes.
 
