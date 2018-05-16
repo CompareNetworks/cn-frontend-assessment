@@ -1,0 +1,31 @@
+[{
+    "title": "4130 Raw",
+    "imageName": "IMG_4130Raw.jpg",
+    "description": "Lorem ipsum dolor amet chambray raw denim thundercats kickstarter pour-over. Slow-carb hot chicken chartreuse venmo gochujang tbh. Seitan asymmetrical chillwave pour-over cold-pressed. Tattooed bushwick VHS, tumeric cold-pressed hella yuccie palo santo heirloom pitchfork fam flannel pinterest helvetica gochujang.",
+    "price": 1200
+  },
+  {
+    "title": "Celeste",
+    "imageName": "IMG_Celeste.jpg",
+    "description": "Bushwick bicycle rights shabby chic sriracha try-hard salvia prism drinking vinegar. Street art drinking vinegar before they sold out sartorial literally etsy YOLO. Ennui tofu brooklyn heirloom truffaut. Knausgaard you probably haven't heard of them raclette, keytar gluten-free cronut hammock fanny pack chambray tofu blog vice live-edge.",
+    "price": 1300
+  },
+  {
+    "title": "Dolores Park",
+    "imageName": "IMG_DoloresPark.jpg",
+    "description": "Succulents readymade venmo, lyft iPhone chambray blog schlitz. Selvage bespoke schlitz deep v pour-over. Vexillologist green juice gastropub affogato. Retro mixtape VHS, beard organic shaman microdosing tattooed tumeric try-hard affogato flannel woke kickstarter tumblr. Yr XOXO literally everyday carry humblebrag marfa tousled, live-edge gluten-free pinterest vegan health goth kombucha beard af.",
+    "price": 1400
+  },
+  {
+    "title": "Drupal",
+    "imageName": "IMG_Drupal.jpg",
+    "description": "Post-ironic live-edge bitters thundercats cronut banjo sartorial, kogi taiyaki. 3 wolf moon salvia forage, bicycle rights squid fixie fashion axe biodiesel. Typewriter shaman chicharrones pinterest. Polaroid vice snackwave occupy, la croix narwhal raw denim post-ironic. Tacos PBR&B hell of, waistcoat hexagon pok pok lyft. Jianbing chia umami affogato polaroid photo booth you probably haven't heard of them pop-up locavore sartorial williamsburg put a bird on it ennui post-ironic air plant.",
+    "price": 1500
+  },
+  {
+    "title": "Valencia",
+    "imageName": "IMG_Valencia.jpg",
+    "description": "Brunch brooklyn vape kale chips roof party. Polaroid farm-to-table art party poke pok pok cloud bread yuccie hexagon food truck PBR&B small batch bespoke. Waistcoat church-key fam la croix affogato art party messenger bag kogi chillwave normcore disrupt four loko farm-to-table austin. Chillwave freegan pop-up craft beer subway tile squid celiac. Swag blue bottle messenger bag single-origin coffee, mixtape knausgaard normcore hoodie chartreuse tilde tbh raw denim man bun shabby chic post-ironic. Glossier blog paleo, ennui farm-to-table semiotics poutine venmo tumeric pop-up YOLO offal whatever asymmetrical activated charcoal. Man bun PBR&B austin, irony coloring book ennui subway tile migas chartreuse vaporware poke authentic.",
+    "price": 1600
+  }
+]
